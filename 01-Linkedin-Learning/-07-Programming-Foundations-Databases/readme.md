@@ -6,16 +6,16 @@ Once you get beyond basic programming, you'll need a database. Databases provide
 ---
 
 ## Learning objectives
-- Relational databases
-- Keys and unique values
-- Planning a database
-- Creating tables
-- Defining relationships
-- Normalization and denormalization
-- Writing queries
-- Sorting results
-- Joining tables
-- Modifying data
+- [x] Relational databases
+- [x] Keys and unique values
+- [x] Planning a database
+- [x] Creating tables
+- [x] Defining relationships
+- [x] Normalization and denormalization
+- [x] Writing queries
+- [x] Sorting results
+- [x] Joining tables
+- [x] Modifying data
 
 ---
 
