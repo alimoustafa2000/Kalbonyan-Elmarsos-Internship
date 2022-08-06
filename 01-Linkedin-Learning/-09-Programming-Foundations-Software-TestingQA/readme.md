@@ -6,13 +6,13 @@ Quality assurance (QA) engineering can mean many different things to different p
 ---
 
 ## Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+- [x] How QA fits into the software development life cycle (SDLC)
+- [x] Setting expectations and goals
+- [x] Making a test plan
+- [x] Incorporating box testing into your process
+- [x] Executing manual testing
+- [x] Leveraging UI automation testing
+- [x] Identifying, reporting, and prioritizing bugs
 
 ---
 
