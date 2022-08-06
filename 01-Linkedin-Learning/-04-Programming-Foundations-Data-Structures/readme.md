@@ -6,14 +6,14 @@ Once you get past simple programs with one or two variables, you'll use data str
 ---
 
 ## Learning objectives
-- Data types: Booleans, numbers, strings, and more
-- Multidimensional arrays
-- Jagged arrays
-- Search and sort arrays
-- Linked lists
-- Stacks and queues
-- Hash functions and hash tables
-- Trees and graphs
+- [x] Data types: Booleans, numbers, strings, and more
+- [x] Multidimensional arrays
+- [x] Jagged arrays
+- [x] Search and sort arrays
+- [x] Linked lists
+- [x] Stacks and queues
+- [x] Hash functions and hash tables
+- [x] Trees and graphs
 
 ---
 
