@@ -6,12 +6,12 @@ Algorithms are the universal building blocks of programming. They power the soft
 ---
 
 ## Learning objectives
-- Measuring algorithm performance
-- Working with data structures such as arrays, stacks, and queues
-- Looping and recursion
-- Sorting data
-- Searching data
-- Filtering and value counting with hash tables
+- [x] Measuring algorithm performance
+- [x] Working with data structures such as arrays, stacks, and queues
+- [x] Looping and recursion
+- [x] Sorting data
+- [x] Searching data
+- [x] Filtering and value counting with hash tables
 
 ---
 
