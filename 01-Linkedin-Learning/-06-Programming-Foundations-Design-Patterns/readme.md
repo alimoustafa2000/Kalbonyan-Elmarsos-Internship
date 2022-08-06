@@ -5,15 +5,15 @@ Design patterns are reusable solutions that solve the challenges software develo
 ---
 
 ## Learning objectives
-- What are design patterns?
-- Encapsulating code that varies with the Strategy pattern
-- The limitations of inheritance
-- Using the Adapter pattern
-- Implementing the Observer pattern
-- Extending behavior with composition and the Decorator pattern
-- Encapsulating iteration with the Iterator pattern
-- Object creation with the Factory Method pattern
-- Using design principles to guide your object-oriented design
+- [x] What are design patterns?
+- [x] Encapsulating code that varies with the Strategy pattern
+- [x] The limitations of inheritance
+- [x] Using the Adapter pattern
+- [x] Implementing the Observer pattern
+- [x] Extending behavior with composition and the Decorator pattern
+- [x] Encapsulating iteration with the Iterator pattern
+- [x] Object creation with the Factory Method pattern
+- [x] Using design principles to guide your object-oriented design
 
 ---
 
